@@ -1,0 +1,36 @@
+[submodule "packit"]
+	path = packit
+	url = https://github.com/packit/packit.git
+	branch = stable
+[submodule "packit-service"]
+	path = packit-service
+	url = https://github.com/packit/packit-service.git
+	branch = stable
+[submodule "ogr"]
+	path = ogr
+	url = https://github.com/packit/ogr.git
+	branch = stable
+[submodule "specfile"]
+	path = specfile
+	url = https://github.com/packit/specfile.git
+	branch = stable
+[submodule "packit-service-fedmsg"]
+	path = packit-service-fedmsg
+	url = https://github.com/packit/packit-service-fedmsg.git
+	branch = stable
+[submodule "sandcastle"]
+	path = sandcastle
+	url = https://github.com/packit/sandcastle.git
+	branch = stable
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/packit/dashboard.git
+	branch = stable
+[submodule "tokman"]
+	path = tokman
+	url = https://github.com/packit/tokman.git
+	branch = stable
+[submodule "hardly"]
+	path = hardly
+	url = https://github.com/packit/hardly.git
+	branch = stable
